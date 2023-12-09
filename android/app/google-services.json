@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450632251055",
+    "project_id": "foodiepal-be2fa",
+    "storage_bucket": "foodiepal-be2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450632251055:android:a78b4baab54205b162065a",
+        "android_client_info": {
+          "package_name": "com.foodiepal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sjX2a5vK0YLDe3Jxvsvya-FZ-UNwM0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
